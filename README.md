@@ -42,7 +42,7 @@ Ensure the following are installed on your system:
 **Clone the Repository**  
    Clone the InstaKart project from GitHub:
    ```bash
-   git clone https://github.com/yourusername/instakart.git
+   git clone https://github.com/yourusername/InstaKart-An-E-Commerce-Website.git
 ```
 **Import Database File ecommerceweb **
 
